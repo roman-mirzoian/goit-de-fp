@@ -1,0 +1,8 @@
+__pycache__/
+.env
+data/
+checkpoints/
+spark-warehouse/
+jars/*.jar
+!jars/mysql-connector-j-8.0.32.jar
+!jars/no-permission-local-fs.jar
